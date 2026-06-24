@@ -1,0 +1,4 @@
+Modelo,Total_Partidas,Ganadas_<=5,Porcentaje_Ganadas_<=5,Partidas_Perdidas_(>5),Porcentaje_Perdidas_(>5),Promedio_Palabras(max 15),Extremadamente_Perdidas_(>15),Ganadas_<=15
+MLP_base,645,296,45.89,349,54.11,6.46,17,628
+MLP_intermedio,645,358,55.5,287,44.5,6.0,14,631
+MLP_profundo,645,287,44.5,358,55.5,6.6,21,624
