@@ -4,7 +4,7 @@ Trabajo de simulación wordle para la materia Redes Neuronales I
 ## Cómo abrir y ejecutar el proyecto localmente
 
 seguí estos pasos:
-### 1
+### 1 Requisitos
 Asegurate de tener instalado en tu computadora:
 * [Git](https://git-scm.com/)
 * [Python 3.x](https://www.python.org/downloads/)
